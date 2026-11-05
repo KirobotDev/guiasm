@@ -107,4 +107,6 @@ bin/  obj/        générés au build
 
 ## Licence
 
-Usage libre pour projets perso et pédagogiques. NASM embarqué : voir `tools/nasm-2.16.03/LICENSE`.
+[MIT](LICENSE) — utilisation, modification et redistribution libres, avec conservation du copyright.
+
+NASM (si tu l’ajoutes dans `tools/`) reste sous sa propre licence : [NASM LICENSE](https://www.nasm.us/doc/nasmdoc.html).
