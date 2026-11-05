@@ -1,0 +1,6 @@
+obj/
+bin/
+*.exe
+*.obj
+*.o
+tools/nasm-*/
