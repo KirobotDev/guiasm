@@ -1,4 +1,4 @@
-# GuiASM
+# GuiASM [ Help AI for include ]
 
 Petite bibliothèque GUI pour Windows x64, écrite en NASM. Pas de runtime C++ : tu `%include "gui.inc"`, tu lies les `.obj` du projet, tu obtiens une fenêtre Win32 classique (user32 + gdi32).
 
